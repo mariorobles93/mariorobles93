@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mariorobles93&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="mariorobles93" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariorobles93&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="mariorobles93" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariorobles93&theme=darkhub&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,A,B,C" alt="mariorobles93" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
