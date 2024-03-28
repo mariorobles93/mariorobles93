@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mariorobles93&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="mariorobles93" /> </p>
-
+<p align="center"> <a href="https://twitter.com/MarioRoblesTech" target="blank"><img src="https://img.shields.io/twitter/follow/MarioRoblesTech?logo=twitter&style=for-the-badge" alt="MarioRoblesTech" /></a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariorobles93&theme=darkhub&column=5&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,A,B,C" alt="mariorobles93" /></a> </p>
 
 ### Blogs posts
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mariorobles93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mariorobles93" height="30" width="40" /></a>
+<a href="https://twitter.com/MarioRoblesTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MarioRoblesTech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mario-robles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-robles" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3120368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3120368" height="30" width="40" /></a>
 <a href="https://medium.com/@mario.robles.93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mario.robles.93" height="30" width="40" /></a>
