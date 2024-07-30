@@ -6,6 +6,9 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [On Implementing Effective Assessments](https://dev.to/mariorobles93/on-implementing-effective-assessments-n56)
+- [Incomplete Thoughts On Asking Frequent Questions While Mentoring](https://dev.to/mariorobles93/incomplete-thoughts-on-asking-frequent-questions-while-mentoring-49fh)
+- [On asking questions while mentoring](https://dev.to/mariorobles93/on-asking-questions-while-mentoring-45oj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
