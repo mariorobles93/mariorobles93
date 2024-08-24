@@ -6,6 +6,7 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mentorship Update. What I have learned being a teacher for only a few weeks](https://dev.to/mariorobles93/mentorship-update-what-i-have-learned-being-a-teacher-for-only-a-few-weeks-4i2d)
 - [On Implementing Effective Assessments](https://dev.to/mariorobles93/on-implementing-effective-assessments-n56)
 - [Incomplete Thoughts On Asking Frequent Questions While Mentoring](https://dev.to/mariorobles93/incomplete-thoughts-on-asking-frequent-questions-while-mentoring-49fh)
 - [On asking questions while mentoring](https://dev.to/mariorobles93/on-asking-questions-while-mentoring-45oj)
